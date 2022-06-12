@@ -11,6 +11,6 @@ The overall structure of the code files is as follow.
 ##### NetworkParameter/*.pth: A set of neural network parameter trained from the phase field simulation results 
 
 Required libraries are Pytorch, Numpy, mathplotlib.\
-Once required packages are installed, the code can be executed by the following command line. \
+Once required packages are installed, the code can be executed by the following command line. 
 
 ##### python3 MC_main.py
